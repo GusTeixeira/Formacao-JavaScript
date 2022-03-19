@@ -1,0 +1,8 @@
+O comando .length conta quantos elementos existem no array
+
+Um array pode ser definido como uma lista ordenada de valores enumerados em que cada valor é chamado
+de elemento, e cada elemento se localiza numa posição na lista chamada de índice. 
+
+O comando .push insere um valor na ultima posição do array
+
+O comando .pop remove o último valor inserido no array

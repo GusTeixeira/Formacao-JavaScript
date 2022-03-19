@@ -1,0 +1,31 @@
+COMPARAÇÕES
+
+== - comparação implícita, exemplo:
+
+const n = 1;
+const n1 = "1";
+
+console.log(n == n1);
+
+RESULTADO = TRUE
+
+Só compara o valor da váriavel, não importando o tipo
+
+=== - comparação explícita, exemplo:
+
+const n = 1;
+const n1 = "1";
+
+console.log(n === n1);
+
+RESULTADO = FALSE
+
+Compara o valor e o tipo de dado das váriaveis
+
+
+OPERADOR TERNÁRIO
+
+É UM IF que pode ser feito em uma única linha
+
+teste
+
